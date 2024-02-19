@@ -1,8 +1,8 @@
 <AppUpdater>
   <update>
-    <latestVersion>18.02.24</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
-    <url>https://github.com/alcindorlosthelven/update_sgl/release</url>
+    <latestVersion>20.02.24</latestVersion>
+    <latestVersionCode>3</latestVersionCode>
+    <url>https://github.com/alcindorlosthelven/update_sgl/tree/main/releases</url>
     <releaseNotes>
      - Bug fixes
     </releaseNotes>
