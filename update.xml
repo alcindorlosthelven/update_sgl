@@ -1,5 +1,10 @@
-<update>
-    <version>2</version>
-    <name>18.02.24</name>
-    <url>https://sgldedier2.com/app.apk</url>
-</update>
+<AppUpdater>
+  <update>
+    <latestVersion>18.02.24</latestVersion>
+    <latestVersionCode>2</latestVersionCode>
+    <url>https://github.com/alcindorlosthelven/update_sgl/release</url>
+    <releaseNotes>
+     - Bug fixes
+    </releaseNotes>
+  </update>
+</AppUpdater>
