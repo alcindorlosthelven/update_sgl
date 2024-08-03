@@ -85,11 +85,6 @@
     "api": "http://serveur15sgl.com/api/"
   },
   {
-    "label": "Notredame",
-    "url": "http://notredamelotto.net/",
-    "api": "http://notredamelotto.net/api/"
-  },
-  {
     "label": "Generosite",
     "url": "http://generositeloto.com/",
     "api": "http://generositeloto.com/api/"
@@ -103,16 +98,6 @@
     "label": "Gaby",
     "url": "http://gabylotto.net/",
     "api": "http://gabylotto.net/api/"
-  },
-  {
-    "label": "SSLOTTO",
-    "url": "http://solutionlotto.com/",
-    "api": "http://solutionlotto.com/api/"
-  },
-  {
-    "label": "ASTRAL",
-    "url": "http://astrallotto.com/",
-    "api": "http://astrallotto.com/api/"
   },
   {
     "label": "CHEZGAMMA",
@@ -203,5 +188,10 @@
     "label": "SLH",
     "url": "http://slhpam.com/",
     "api": "http://slhpam.com/api/"
+  },
+  {
+    "label": "BOGA",
+    "url": "http://bogaboga.me/",
+    "api": "http://bogaboga.me/api/"
   }
 ]
