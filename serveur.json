@@ -193,5 +193,15 @@
     "label": "BOGA",
     "url": "http://bogaboga.me/",
     "api": "http://bogaboga.me/api/"
+  },
+  {
+    "label": "TLOTTO",
+    "url": "http://trinitelotto.com/",
+    "api": "http://trinitelotto.com/api/"
+  },
+  {
+    "label": "TCENTER",
+    "url": "http://trinitecenter.net/",
+    "api": "http://trinitecenter.net/api/"
   }
 ]
