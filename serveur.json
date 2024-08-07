@@ -203,5 +203,10 @@
     "label": "TCENTER",
     "url": "http://trinitecenter.net/",
     "api": "http://trinitecenter.net/api/"
+  },
+  {
+    "label": "WIL",
+    "url": "http://wilcenter.com/",
+    "api": "http://wilcenter.com/api/"
   }
 ]
