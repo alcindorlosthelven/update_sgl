@@ -208,5 +208,10 @@
     "label": "WIL",
     "url": "http://wilcenter.com/",
     "api": "http://wilcenter.com/api/"
+  },
+  {
+    "label": "EURO-CENTER",
+    "url": "http://eurocenter.me/",
+    "api": "http://eurocenter.me/api/"
   }
 ]
