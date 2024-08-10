@@ -213,5 +213,20 @@
     "label": "EURO-CENTER",
     "url": "http://eurocenter.me/",
     "api": "http://eurocenter.me/api/"
+  },
+  {
+    "label": "JOHN-CENTER",
+    "url": "http://jhoncenter.com/",
+    "api": "http://jhoncenter.com/api/"
+  },
+  {
+    "label": "NESLY",
+    "url": "http://nesly.me/",
+    "api": "http://nesly.me/api/"
+  },
+  {
+    "label": "PRIME",
+    "url": "http://primecenter.uno/",
+    "api": "http://primecenter.uno/api/"
   }
 ]
