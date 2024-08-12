@@ -228,5 +228,10 @@
     "label": "PRIME",
     "url": "http://primecenter.uno/",
     "api": "http://primecenter.uno/api/"
+  },
+  {
+    "label": "YONEL",
+    "url": "http://yonelcenter.com/",
+    "api": "http://yonelcenter.com/api/"
   }
 ]
