@@ -233,5 +233,11 @@
     "label": "YONEL",
     "url": "http://yonelcenter.com/",
     "api": "http://yonelcenter.com/api/"
+  },
+  {
+    "label": "CHEZ-ROZA",
+    "url": "http://chezrozalotto.net/",
+    "api": "http://chezrozalotto.net/api/"
   }
 ]
+
