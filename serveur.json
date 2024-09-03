@@ -238,6 +238,12 @@
     "label": "CHEZ-ROZA",
     "url": "http://chezrozalotto.net/",
     "api": "http://chezrozalotto.net/api/"
+  },
+  {
+    "label": "BELO",
+    "url": "http://belolotto.com/",
+    "api": "http://belolotto.com/api/"
   }
+  
 ]
 
