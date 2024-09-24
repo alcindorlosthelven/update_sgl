@@ -243,6 +243,11 @@
     "label": "BELO",
     "url": "http://belolotto.com/",
     "api": "http://belolotto.com/api/"
+  },
+  {
+    "label": "REVESON",
+    "url": "http://reveson.me/",
+    "api": "http://reveson.me/api/"
   }
   
 ]
