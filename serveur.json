@@ -1,5 +1,10 @@
 [
   {
+    "label": "SUD 1",
+    "url": "http://sglsud.com/",
+    "api": "http://sglsud.com/api/"
+  },
+  {
     "label": "DEDIE 1",
     "url": "http://sgldedier.com/",
     "api": "http://sgldedier.com/api/"
