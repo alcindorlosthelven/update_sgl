@@ -5,6 +5,11 @@
     "api": "http://sglsud.com/api/"
   },
   {
+    "label": "G-CSC",
+    "url": "http://sgl-globalcsc.com/",
+    "api": "http://sgl-globalcsc.com/api/"
+  },
+  {
     "label": "DEDIE 1",
     "url": "http://sgldedier.com/",
     "api": "http://sgldedier.com/api/"
