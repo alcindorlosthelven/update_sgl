@@ -15,7 +15,12 @@
     "api": "http://sgldedier.com/api/"
   },
   {
-    "label": "DEDIE 2",
+    "label": "DEDIE-2(net)",
+    "url": "http://sgldedier2.net/",
+    "api": "http://sgldedier2.net/api/"
+  },
+  {
+    "label": "DEDIE2(hold)",
     "url": "http://sgldedier2.com/",
     "api": "http://sgldedier2.com/api/"
   },
