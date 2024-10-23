@@ -263,6 +263,11 @@
     "label": "REVESON",
     "url": "http://reveson.me/",
     "api": "http://reveson.me/api/"
+  },
+  {
+    "label": "HCENTER",
+    "url": "http://hcenter.me/",
+    "api": "http://hcenter.me/api/"
   }
 ]
 
