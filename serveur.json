@@ -278,6 +278,15 @@
     "label": "SOLUTION.IN",
     "url": "http://solutionlotto.in/",
     "api": "http://solutionlotto.in/api/"
+  },
+  {
+    "label": "PARET LOTTO",
+    "url": "http://paretlotto.com/",
+    "api": "http://paretlotto.com/api/"
+  },
+  {
+    "label": "RICO",
+    "url": "http://ricolotto.com/",
+    "api": "http://ricolotto.com/api/"
   }
 ]
-
