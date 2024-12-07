@@ -280,7 +280,7 @@
     "api": "http://solutionlotto.in/api/"
   },
   {
-    "label": "PARET LOTTO",
+    "label": "PARET",
     "url": "http://paretlotto.com/",
     "api": "http://paretlotto.com/api/"
   },
@@ -288,5 +288,10 @@
     "label": "RICO",
     "url": "http://ricolotto.com/",
     "api": "http://ricolotto.com/api/"
+  },
+  {
+    "label": "EDEAU",
+    "url": "http://edeaucenter.com/",
+    "api": "http://edeaucenter.com/api/"
   }
 ]
