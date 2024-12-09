@@ -293,5 +293,15 @@
     "label": "EDEAU",
     "url": "http://edeaucenter.com/",
     "api": "http://edeaucenter.com/api/"
+  },
+  {
+    "label": "SB-1",
+    "url": "http://sbsouvenir.com/",
+    "api": "http://sbsouvenir.com/api/"
+  },
+  {
+    "label": "SB-2",
+    "url": "http://sbsouvenir2.com/",
+    "api": "http://sbsouvenir2.com/api/"
   }
 ]
