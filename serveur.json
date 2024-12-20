@@ -1,5 +1,10 @@
 [
   {
+  "label": "FTECH",
+  "url": "http://ftechinnovations.com/",
+  "api": "http://ftechinnovations.com/api/"
+  },
+  {
     "label": "SUD 1",
     "url": "http://sglsud.com/",
     "api": "http://sglsud.com/api/"
