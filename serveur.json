@@ -308,5 +308,10 @@
     "label": "SB-2",
     "url": "http://sbsouvenir2.com/",
     "api": "http://sbsouvenir2.com/api/"
+  },
+  {
+    "label": "ELOHA",
+    "url": "http://elohaloto.com/",
+    "api": "http://elohaloto.com/api/"
   }
 ]
