@@ -313,5 +313,10 @@
     "label": "ELOHA",
     "url": "http://elohaloto.com/",
     "api": "http://elohaloto.com/api/"
+  },
+  {
+    "label": "PEN",
+    "url": "http://pere-enernel.com/",
+    "api": "http://pere-enernel.com/api/"
   }
 ]
