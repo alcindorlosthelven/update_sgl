@@ -318,5 +318,10 @@
     "label": "PEN",
     "url": "http://pere-enernel.com/",
     "api": "http://pere-enernel.com/api/"
+  },
+   {
+    "label": "NOTREDAME",
+    "url": "http://notredamelotto.net/",
+    "api": "http://notredamelotto.net/api/"
   }
 ]
