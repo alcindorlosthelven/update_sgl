@@ -323,5 +323,15 @@
     "label": "BS",
     "url": "http://bslotto.me/",
     "api": "http://bslotto.me/api/"
+  },
+  {
+    "label": "NOTREDAME",
+    "url": "http://notredamelotto.net/",
+    "api": "http://notredamelotto.net/api/"
+  },
+  {
+    "label": "LOCAL",
+    "url": "http://localhost:8888/sgl/",
+    "api": "http://localhost:8888/sgl/api/"
   }
 ]
