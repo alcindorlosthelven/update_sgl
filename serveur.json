@@ -318,5 +318,10 @@
     "label": "PEN",
     "url": "http://pere-enernel.com/",
     "api": "http://pere-enernel.com/api/"
+  },
+  {
+    "label": "BS",
+    "url": "http://bslotto.me/",
+    "api": "http://bslotto.me/api/"
   }
 ]
