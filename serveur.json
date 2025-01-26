@@ -1,5 +1,10 @@
 [
   {
+    "label": "TOUGÒL",
+    "url": "http://tougollotto.com/",
+    "api": "http://tougollotto.com/api/"
+  },
+  {
   "label": "FTECH",
   "url": "http://ftechinnovations.com/",
   "api": "http://ftechinnovations.com/api/"
