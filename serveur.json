@@ -335,6 +335,11 @@
     "api": "http://notredamelotto.net/api/"
   },
   {
+    "label": "GKAYEN",
+    "url": "http://gkayen.com/",
+    "api": "http://gkayen.com/api/"
+  },
+  {
     "label": "LOCAL",
     "url": "http://localhost:8888/sgl/",
     "api": "http://localhost:8888/sgl/api/"
