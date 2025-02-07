@@ -1,7 +1,9 @@
 [
     {
+      "version": "1.0.0",
       "latestVersion": "1.0.0",
       "url": "https://github.com/alcindorlosthelven/update_sgl/blob/main/FTECH.apk",
+      "downloadUrl": "https://github.com/alcindorlosthelven/update_sgl/blob/main/FTECH.apk",
       "releaseNotes": "New update 1.0.0!",
       "releaseDate": "2025-02-07T11:58:25Z",
       "sha512": "2e0349c1e729eac0f4cb9f831fa1130241743c8db9e115013091dbeec6b8b86dc18c62bcbfab516033869c8ec8c8967615c622303d4bee62640c3b507051aca2"
