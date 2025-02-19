@@ -77,7 +77,7 @@
   {
     "label": "SERVEUR 9",
     "url": "http://serveur9sgl.com/",
-    "api": "htt://serveur9sgl.com/api/"
+    "api": "http://serveur9sgl.com/api/"
   },
   {
     "label": "SERVEUR 10",
