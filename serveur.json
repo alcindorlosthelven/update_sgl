@@ -80,6 +80,11 @@
     "api": "http://serveur9sgl.com/api/"
   },
   {
+    "label": "SERVEURS 9",
+    "url": "https://serveur9sgl.com/",
+    "api": "https://serveur9sgl.com/api/"
+  },
+  {
     "label": "SERVEUR 10",
     "url": "http://serveur10sgl.com/",
     "api": "http://serveur10sgl.com/api/"
