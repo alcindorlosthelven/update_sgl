@@ -1,5 +1,10 @@
 [
   {
+    "label": "JLA",
+    "url": "http://jwelajanw.com/",
+    "api": "http://jwelajanw.com/api/"
+  },
+  {
     "label": "TOUGÒL",
     "url": "http://tougollotto.com/",
     "api": "http://tougollotto.com/api/"
