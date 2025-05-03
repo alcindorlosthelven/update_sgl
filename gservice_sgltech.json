@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325174859870",
+    "firebase_url": "https://sgltech-default-rtdb.firebaseio.com",
+    "project_id": "sgltech",
+    "storage_bucket": "sgltech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325174859870:android:c4ab39595bcdef9e7abccf",
+        "android_client_info": {
+          "package_name": "alcindor.losthelven.sgl60"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcLhdauqZ5PEsCFbCj4AXQsu_C-U-wSRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
