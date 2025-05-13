@@ -350,6 +350,11 @@
     "api": "http://gkayen.com/api/"
   },
   {
+    "label": "RESEZIW",
+    "url": "http://reseziw.com/",
+    "api": "http://reseziw.com/api/"
+  },
+  {
     "label": "LOCAL",
     "url": "http://localhost:8888/sgl/",
     "api": "http://localhost:8888/sgl/api/"
