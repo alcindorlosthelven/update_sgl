@@ -1,5 +1,10 @@
 [
   {
+    "label": "VSG",
+    "url": "http://visionglobalsystem.com/",
+    "api": "http://visionglobalsystem.com/api/"
+  },
+  {
     "label": "JLA",
     "url": "http://jwelajanw.com/",
     "api": "http://jwelajanw.com/api/"
