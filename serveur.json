@@ -45,6 +45,11 @@
     "api": "http://sgldedier2.com/api/"
   },
   {
+    "label": "JONAS",
+    "url": "http://chezjonas.net/",
+    "api": "http://chezjonas.net/api/"
+  },
+  {
     "label": "SERVEUR 1",
     "url": "http://sglhaiti.com/",
     "api": "http://sglhaiti.com/api/"
