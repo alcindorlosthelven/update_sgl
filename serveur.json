@@ -40,14 +40,9 @@
     "api": "http://sgldedier.com/api/"
   },
   {
-    "label": "DEDIE-2(net)",
+    "label": "DEDIE-2",
     "url": "http://sgldedier2.net/",
     "api": "http://sgldedier2.net/api/"
-  },
-  {
-    "label": "DEDIE2(hold)",
-    "url": "http://sgldedier2.com/",
-    "api": "http://sgldedier2.com/api/"
   },
   {
     "label": "JONAS",
@@ -100,11 +95,6 @@
     "api": "http://serveur9sgl.com/api/"
   },
   {
-    "label": "SERVEURS 9",
-    "url": "https://serveur9sgl.com/",
-    "api": "https://serveur9sgl.com/api/"
-  },
-  {
     "label": "SERVEUR 10",
     "url": "http://serveur10sgl.com/",
     "api": "http://serveur10sgl.com/api/"
@@ -136,11 +126,6 @@
   },
   {
     "label": "Generosite",
-    "url": "http://generositeloto.com/",
-    "api": "http://generositeloto.com/api/"
-  },
-  {
-    "label": "Generosite 2",
     "url": "http://generositeloto.net/",
     "api": "http://generositeloto.net/api/"
   },
@@ -188,16 +173,6 @@
     "label": "IDEAL",
     "url": "http://idealborlette.com/",
     "api": "http://idealborlette.com/api/"
-  },
-  {
-    "label": "LA PROFESSI",
-    "url": "http://laprofessiborlette.com/",
-    "api": "http://laprofessiborlette.com/api/"
-  },
-  {
-    "label": "RPX",
-    "url": "http://rpxborlette.com/",
-    "api": "http://rpxborlette.com/api/"
   },
   {
     "label": "MARCLOTOPAW",
