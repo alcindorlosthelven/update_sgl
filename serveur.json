@@ -1,4 +1,9 @@
 [
+    {
+      "label": "OL",
+      "url": "https://sglonline.net/",
+      "api": "https://sglonline.net/api/"
+    },
   {
     "label": "VSG",
     "url": "http://visionglobalsystem.com/",
