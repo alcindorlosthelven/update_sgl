@@ -1,9 +1,14 @@
 [
-    {
+   {
+      "label": "SJNB",
+      "url": "http://sjnb.net/",
+      "api": "http://sjnb.net/api/"
+  },
+  {
       "label": "OL",
-      "url": "https://sglonline.net/",
-      "api": "https://sglonline.net/api/"
-    },
+      "url": "http://sglonline.net/",
+      "api": "http://sglonline.net/api/"
+  },
   {
     "label": "VSG",
     "url": "http://visionglobalsystem.com/",
