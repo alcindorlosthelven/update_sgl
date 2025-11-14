@@ -360,6 +360,11 @@
     "api": "http://laprofessiborlette.com/api/"
   },
   {
+      "label": "JUNOT",
+      "url": "https://junotextramillenium.net/",
+      "api": "https://junotextramillenium.net/api/"
+  },
+  {
     "label": "LOCAL",
     "url": "http://localhost:8888/sgl/",
     "api": "http://localhost:8888/sgl/api/"
