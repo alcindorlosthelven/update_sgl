@@ -1,5 +1,20 @@
 [
   {
+      "label": "EPREUVE",
+      "url": "http://epreuve.tech/",
+      "api": "http://epreuve.tech/api/"
+  },
+  {
+      "label": "4LAS",
+      "url": "http://4las.com/",
+      "api": "http://4las.com/api/"
+  },
+  {
+      "label": "OKCELESTE",
+      "url": "http://okceleste.tech/",
+      "api": "http://okceleste.tech/api/"
+  },
+  {
       "label": "MCL",
       "url": "http://marclotopaw.com/",
       "api": "http://marclotopaw.com/api/"
