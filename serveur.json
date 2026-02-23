@@ -1,5 +1,10 @@
 [
   {
+      "label": "Bonjan",
+      "url": "http://bonjan.tech/",
+      "api": "http://bonjan.tech/api/"
+  },
+  {
       "label": "EPREUVE",
       "url": "http://epreuve.tech/",
       "api": "http://epreuve.tech/api/"
