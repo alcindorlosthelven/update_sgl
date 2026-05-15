@@ -396,8 +396,8 @@
   },
   {
       "label": "Metjwetla",
-      "url": "https://metjwetla.net/",
-      "api": "https://metjwetla.net/api/"
+      "url": "http://metjwetla.net/",
+      "api": "http://metjwetla.net/api/"
   },
   {
     "label": "LOCAL",
