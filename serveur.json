@@ -395,6 +395,11 @@
       "api": "http://junotextramillenium.net/api/"
   },
   {
+      "label": "Metjwetla",
+      "url": "https://metjwetla.net/",
+      "api": "https://metjwetla.net/api/"
+  },
+  {
     "label": "LOCAL",
     "url": "http://localhost:8888/sgl/",
     "api": "http://localhost:8888/sgl/api/"
