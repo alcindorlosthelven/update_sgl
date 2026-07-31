@@ -10,9 +10,9 @@
       "api": "http://nolimite.tech/api/"
   },
   {
-      "label": "GlJ bontan",
-      "url": "http://bonjan.tech/",
-      "api": "http://bonjan.tech/api/"
+      "label": "GlJ_ bontan",
+      "url": "http://gljbontan.tech/",
+      "api": "http://gljbontan.tech/api/"
   },
   {
       "label": "EPREUVE",
@@ -398,6 +398,11 @@
       "label": "JUNOT",
       "url": "http://junotextramillenium.net/",
       "api": "http://junotextramillenium.net/api/"
+  },
+  {
+      "label": "Metjwetla",
+      "url": "http://metjwetla.net/",
+      "api": "http://metjwetla.net/api/"
   },
   {
     "label": "LOCAL",
