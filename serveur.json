@@ -1,5 +1,10 @@
 [
   {
+      "label": "PALO",
+      "url": "http://chezpalo.com/",
+      "api": "http://chezpalo.com/api/"
+  },
+  {
       "label": "NOLIMIT",
       "url": "http://nolimite.tech/",
       "api": "http://nolimite.tech/api/"
