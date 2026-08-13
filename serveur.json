@@ -1,5 +1,10 @@
 [
   {
+      "label": "FML",
+      "url": "http://filsmoiselotto.com/",
+      "api": "http://filsmoiselotto.com/api/"
+  },
+  {
       "label": "PALO",
       "url": "http://chezpalo.com/",
       "api": "http://chezpalo.com/api/"
