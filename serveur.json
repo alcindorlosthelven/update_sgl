@@ -1,5 +1,10 @@
 [
   {
+      "label": "AB",
+      "url": "http://asirans.tech/",
+      "api": "http://asirans.tech/api/"
+  },
+  {
       "label": "FML",
       "url": "http://filsmoiselotto.com/",
       "api": "http://filsmoiselotto.com/api/"
